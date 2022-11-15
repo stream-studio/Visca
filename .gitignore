@@ -6,5 +6,6 @@ android/.idea
 android/build
 android/lib/build
 android/lib/.cxx
+android/example/build
 .DS_Store
 .vscode/settings.json
