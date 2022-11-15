@@ -1,0 +1,169 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ludovic/Workspace/Kalyzee/ViscaCPP/android/example/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/ludovic/Workspace/Kalyzee/ViscaCPP/android/example/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/ludovic/Workspace/Kalyzee/ViscaCPP/android/example/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/ludovic/Workspace/Kalyzee/ViscaCPP/android/example/src/main/AndroidManifest.xml:2:1-32:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/ludovic/.gradle/caches/transforms-3/878a513ba8afa34d20ee64bfe5e8609f/transformed/appcompat-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/ludovic/.gradle/caches/transforms-3/66c3d96107f020c3cdd7bae98d5e5b6f/transformed/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [:lib] /Users/ludovic/Workspace/Kalyzee/ViscaCPP/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/ludovic/.gradle/caches/transforms-3/3e06d856f3040bdc04443e345f169ac4/transformed/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/ludovic/.gradle/caches/transforms-3/5e923cdf55991ef1ad14f24d27455147/transformed/vectordrawable-animated-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/ludovic/.gradle/caches/transforms-3/5f387dd42af2211c3b7671d64d3b8ccc/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/ludovic/.gradle/caches/transforms-3/5005d5d42aa6b27585e687ece93b757a/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/ludovic/.gradle/caches/transforms-3/1b056c97e14fb57c2a6694f620736e73/transformed/vectordrawable-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/ludovic/.gradle/caches/transforms-3/2d3efbfe6e50d18d7205fe871acc6566/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ludovic/.gradle/caches/transforms-3/ac3563bc45a01cb6cdece7cbe6247ce8/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/ludovic/.gradle/caches/transforms-3/e5f85983a5ba1a0a8ba3dcd4e1666ae2/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ludovic/.gradle/caches/transforms-3/e9a7df8545f6df76a4d30627242d4a70/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/ludovic/.gradle/caches/transforms-3/3de058f6f0a9ad81b187bcd2006e22e0/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/ludovic/.gradle/caches/transforms-3/f4d37d289a0afd1a06e70c483c2bd71d/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/ludovic/.gradle/caches/transforms-3/b405bd150a8bdf342d7cb26d365d0db5/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/ludovic/.gradle/caches/transforms-3/51bf19e0220a55ae11a5d5fa8e10c3ed/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /Users/ludovic/.gradle/caches/transforms-3/0bed72e14570c3ab54493c53155f2727/transformed/core-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/ludovic/.gradle/caches/transforms-3/042dd81e3ec730b5145ba7ed836d464d/transformed/versionedparcelable-1.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ludovic/.gradle/caches/transforms-3/9e85a98d5d1928c7dbba0fd7b95baf24/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/ludovic/.gradle/caches/transforms-3/d7618d01401ae241b4b82363c2e9319f/transformed/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/ludovic/.gradle/caches/transforms-3/a8db899eb0ce08ccc34300dfb92af2c7/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/ludovic/.gradle/caches/transforms-3/c098ac6a3bf66549ec7bff7f6afa5d52/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/ludovic/.gradle/caches/transforms-3/98c3943360b406b22cfffc383329de2b/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/ludovic/.gradle/caches/transforms-3/2372ae09891ed7e9badb2aa1d71cd684/transformed/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ludovic/.gradle/caches/transforms-3/e8c6c931e55bde32e29f345696c734fa/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/ludovic/.gradle/caches/transforms-3/f7b6dd6f2090bd27a6ff3fc6c0dd7f9a/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/ludovic/.gradle/caches/transforms-3/5f8248072877948bba89f5c8924ea201/transformed/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ludovic/.gradle/caches/transforms-3/c6f30ef12fc85e144ebd5652ce79560d/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/ludovic/Workspace/Kalyzee/ViscaCPP/android/example/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/ludovic/Workspace/Kalyzee/ViscaCPP/android/example/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/ludovic/Workspace/Kalyzee/ViscaCPP/android/example/src/main/AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from /Users/ludovic/Workspace/Kalyzee/ViscaCPP/android/example/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /Users/ludovic/Workspace/Kalyzee/ViscaCPP/android/example/src/main/AndroidManifest.xml
+		INJECTED from /Users/ludovic/Workspace/Kalyzee/ViscaCPP/android/example/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/ludovic/Workspace/Kalyzee/ViscaCPP/android/example/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/ludovic/Workspace/Kalyzee/ViscaCPP/android/example/src/main/AndroidManifest.xml
+		INJECTED from /Users/ludovic/Workspace/Kalyzee/ViscaCPP/android/example/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ludovic/Workspace/Kalyzee/ViscaCPP/android/example/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/ludovic/Workspace/Kalyzee/ViscaCPP/android/example/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/ludovic/Workspace/Kalyzee/ViscaCPP/android/example/src/main/AndroidManifest.xml
+		INJECTED from /Users/ludovic/Workspace/Kalyzee/ViscaCPP/android/example/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/ludovic/Workspace/Kalyzee/ViscaCPP/android/example/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/ludovic/Workspace/Kalyzee/ViscaCPP/android/example/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/ludovic/Workspace/Kalyzee/ViscaCPP/android/example/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/ludovic/.gradle/caches/transforms-3/878a513ba8afa34d20ee64bfe5e8609f/transformed/appcompat-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/ludovic/.gradle/caches/transforms-3/878a513ba8afa34d20ee64bfe5e8609f/transformed/appcompat-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/ludovic/.gradle/caches/transforms-3/66c3d96107f020c3cdd7bae98d5e5b6f/transformed/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/ludovic/.gradle/caches/transforms-3/66c3d96107f020c3cdd7bae98d5e5b6f/transformed/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [:lib] /Users/ludovic/Workspace/Kalyzee/ViscaCPP/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:lib] /Users/ludovic/Workspace/Kalyzee/ViscaCPP/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/ludovic/.gradle/caches/transforms-3/3e06d856f3040bdc04443e345f169ac4/transformed/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/ludovic/.gradle/caches/transforms-3/3e06d856f3040bdc04443e345f169ac4/transformed/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/ludovic/.gradle/caches/transforms-3/5e923cdf55991ef1ad14f24d27455147/transformed/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/ludovic/.gradle/caches/transforms-3/5e923cdf55991ef1ad14f24d27455147/transformed/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/ludovic/.gradle/caches/transforms-3/5f387dd42af2211c3b7671d64d3b8ccc/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/ludovic/.gradle/caches/transforms-3/5f387dd42af2211c3b7671d64d3b8ccc/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/ludovic/.gradle/caches/transforms-3/5005d5d42aa6b27585e687ece93b757a/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/ludovic/.gradle/caches/transforms-3/5005d5d42aa6b27585e687ece93b757a/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/ludovic/.gradle/caches/transforms-3/1b056c97e14fb57c2a6694f620736e73/transformed/vectordrawable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/ludovic/.gradle/caches/transforms-3/1b056c97e14fb57c2a6694f620736e73/transformed/vectordrawable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/ludovic/.gradle/caches/transforms-3/2d3efbfe6e50d18d7205fe871acc6566/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/ludovic/.gradle/caches/transforms-3/2d3efbfe6e50d18d7205fe871acc6566/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ludovic/.gradle/caches/transforms-3/ac3563bc45a01cb6cdece7cbe6247ce8/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ludovic/.gradle/caches/transforms-3/ac3563bc45a01cb6cdece7cbe6247ce8/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/ludovic/.gradle/caches/transforms-3/e5f85983a5ba1a0a8ba3dcd4e1666ae2/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/ludovic/.gradle/caches/transforms-3/e5f85983a5ba1a0a8ba3dcd4e1666ae2/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ludovic/.gradle/caches/transforms-3/e9a7df8545f6df76a4d30627242d4a70/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ludovic/.gradle/caches/transforms-3/e9a7df8545f6df76a4d30627242d4a70/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/ludovic/.gradle/caches/transforms-3/3de058f6f0a9ad81b187bcd2006e22e0/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/ludovic/.gradle/caches/transforms-3/3de058f6f0a9ad81b187bcd2006e22e0/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/ludovic/.gradle/caches/transforms-3/f4d37d289a0afd1a06e70c483c2bd71d/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/ludovic/.gradle/caches/transforms-3/f4d37d289a0afd1a06e70c483c2bd71d/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/ludovic/.gradle/caches/transforms-3/b405bd150a8bdf342d7cb26d365d0db5/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/ludovic/.gradle/caches/transforms-3/b405bd150a8bdf342d7cb26d365d0db5/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/ludovic/.gradle/caches/transforms-3/51bf19e0220a55ae11a5d5fa8e10c3ed/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/ludovic/.gradle/caches/transforms-3/51bf19e0220a55ae11a5d5fa8e10c3ed/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/ludovic/.gradle/caches/transforms-3/0bed72e14570c3ab54493c53155f2727/transformed/core-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/ludovic/.gradle/caches/transforms-3/0bed72e14570c3ab54493c53155f2727/transformed/core-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/ludovic/.gradle/caches/transforms-3/042dd81e3ec730b5145ba7ed836d464d/transformed/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/ludovic/.gradle/caches/transforms-3/042dd81e3ec730b5145ba7ed836d464d/transformed/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ludovic/.gradle/caches/transforms-3/9e85a98d5d1928c7dbba0fd7b95baf24/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ludovic/.gradle/caches/transforms-3/9e85a98d5d1928c7dbba0fd7b95baf24/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/ludovic/.gradle/caches/transforms-3/d7618d01401ae241b4b82363c2e9319f/transformed/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/ludovic/.gradle/caches/transforms-3/d7618d01401ae241b4b82363c2e9319f/transformed/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/ludovic/.gradle/caches/transforms-3/a8db899eb0ce08ccc34300dfb92af2c7/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/ludovic/.gradle/caches/transforms-3/a8db899eb0ce08ccc34300dfb92af2c7/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/ludovic/.gradle/caches/transforms-3/c098ac6a3bf66549ec7bff7f6afa5d52/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/ludovic/.gradle/caches/transforms-3/c098ac6a3bf66549ec7bff7f6afa5d52/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/ludovic/.gradle/caches/transforms-3/98c3943360b406b22cfffc383329de2b/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/ludovic/.gradle/caches/transforms-3/98c3943360b406b22cfffc383329de2b/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/ludovic/.gradle/caches/transforms-3/2372ae09891ed7e9badb2aa1d71cd684/transformed/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/ludovic/.gradle/caches/transforms-3/2372ae09891ed7e9badb2aa1d71cd684/transformed/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ludovic/.gradle/caches/transforms-3/e8c6c931e55bde32e29f345696c734fa/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ludovic/.gradle/caches/transforms-3/e8c6c931e55bde32e29f345696c734fa/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/ludovic/.gradle/caches/transforms-3/f7b6dd6f2090bd27a6ff3fc6c0dd7f9a/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/ludovic/.gradle/caches/transforms-3/f7b6dd6f2090bd27a6ff3fc6c0dd7f9a/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/ludovic/.gradle/caches/transforms-3/5f8248072877948bba89f5c8924ea201/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/ludovic/.gradle/caches/transforms-3/5f8248072877948bba89f5c8924ea201/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ludovic/.gradle/caches/transforms-3/c6f30ef12fc85e144ebd5652ce79560d/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ludovic/.gradle/caches/transforms-3/c6f30ef12fc85e144ebd5652ce79560d/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/ludovic/Workspace/Kalyzee/ViscaCPP/android/example/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/ludovic/Workspace/Kalyzee/ViscaCPP/android/example/src/main/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from /Users/ludovic/Workspace/Kalyzee/ViscaCPP/android/example/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/ludovic/Workspace/Kalyzee/ViscaCPP/android/example/src/main/AndroidManifest.xml
+		INJECTED from /Users/ludovic/Workspace/Kalyzee/ViscaCPP/android/example/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/ludovic/Workspace/Kalyzee/ViscaCPP/android/example/src/main/AndroidManifest.xml:8:9-34
+		INJECTED from /Users/ludovic/Workspace/Kalyzee/ViscaCPP/android/example/src/main/AndroidManifest.xml
+		INJECTED from /Users/ludovic/Workspace/Kalyzee/ViscaCPP/android/example/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/ludovic/Workspace/Kalyzee/ViscaCPP/android/example/src/main/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /Users/ludovic/Workspace/Kalyzee/ViscaCPP/android/example/src/main/AndroidManifest.xml:11:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/ludovic/Workspace/Kalyzee/ViscaCPP/android/example/src/main/AndroidManifest.xml:12:5-68
+	android:name
+		ADDED from /Users/ludovic/Workspace/Kalyzee/ViscaCPP/android/example/src/main/AndroidManifest.xml:12:22-65
+uses-feature#0x00020000
+ADDED from /Users/ludovic/Workspace/Kalyzee/ViscaCPP/android/example/src/main/AndroidManifest.xml:14:5-54
+	android:glEsVersion
+		ADDED from /Users/ludovic/Workspace/Kalyzee/ViscaCPP/android/example/src/main/AndroidManifest.xml:14:19-51
+application
+ADDED from /Users/ludovic/Workspace/Kalyzee/ViscaCPP/android/example/src/main/AndroidManifest.xml:16:5-30:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/ludovic/.gradle/caches/transforms-3/66c3d96107f020c3cdd7bae98d5e5b6f/transformed/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/ludovic/.gradle/caches/transforms-3/66c3d96107f020c3cdd7bae98d5e5b6f/transformed/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [:lib] /Users/ludovic/Workspace/Kalyzee/ViscaCPP/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-20
+MERGED from [:lib] /Users/ludovic/Workspace/Kalyzee/ViscaCPP/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.0] /Users/ludovic/.gradle/caches/transforms-3/0bed72e14570c3ab54493c53155f2727/transformed/core-1.0.0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /Users/ludovic/.gradle/caches/transforms-3/0bed72e14570c3ab54493c53155f2727/transformed/core-1.0.0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/ludovic/.gradle/caches/transforms-3/042dd81e3ec730b5145ba7ed836d464d/transformed/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/ludovic/.gradle/caches/transforms-3/042dd81e3ec730b5145ba7ed836d464d/transformed/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] /Users/ludovic/.gradle/caches/transforms-3/0bed72e14570c3ab54493c53155f2727/transformed/core-1.0.0/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/ludovic/Workspace/Kalyzee/ViscaCPP/android/example/src/main/AndroidManifest.xml:18:9-41
+	android:icon
+		ADDED from /Users/ludovic/Workspace/Kalyzee/ViscaCPP/android/example/src/main/AndroidManifest.xml:17:9-43
+	android:theme
+		ADDED from /Users/ludovic/Workspace/Kalyzee/ViscaCPP/android/example/src/main/AndroidManifest.xml:19:9-65
+activity#studio.stream.viscademo.StudioMainActivity
+ADDED from /Users/ludovic/Workspace/Kalyzee/ViscaCPP/android/example/src/main/AndroidManifest.xml:21:9-29:20
+	android:label
+		ADDED from /Users/ludovic/Workspace/Kalyzee/ViscaCPP/android/example/src/main/AndroidManifest.xml:23:13-45
+	android:exported
+		ADDED from /Users/ludovic/Workspace/Kalyzee/ViscaCPP/android/example/src/main/AndroidManifest.xml:24:13-36
+	android:name
+		ADDED from /Users/ludovic/Workspace/Kalyzee/ViscaCPP/android/example/src/main/AndroidManifest.xml:22:13-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/ludovic/Workspace/Kalyzee/ViscaCPP/android/example/src/main/AndroidManifest.xml:25:13-28:29
+action#android.intent.action.MAIN
+ADDED from /Users/ludovic/Workspace/Kalyzee/ViscaCPP/android/example/src/main/AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from /Users/ludovic/Workspace/Kalyzee/ViscaCPP/android/example/src/main/AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ludovic/Workspace/Kalyzee/ViscaCPP/android/example/src/main/AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from /Users/ludovic/Workspace/Kalyzee/ViscaCPP/android/example/src/main/AndroidManifest.xml:27:27-74

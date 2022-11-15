@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "applicationId": "studio.stream.viscademo",
+  "variantType": "BASE_APK",
+  "elements": [
+    {
+      "outputType": {
+        "type": "BUNDLE_MANIFEST"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": 1,
+        "versionName": "1.0",
+        "outputFile": "example-debug.apk",
+        "fullName": "debug",
+        "baseName": "debug",
+        "dirName": ""
+      },
+      "path": "AndroidManifest.xml",
+      "properties": {
+        "packageId": "studio.stream.viscademo",
+        "split": "",
+        "minSdkVersion": "16"
+      }
+    }
+  ]
+}

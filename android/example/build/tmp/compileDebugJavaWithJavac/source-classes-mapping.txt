@@ -1,0 +1,2 @@
+studio/stream/viscademo/BuildConfig.java
+ studio.stream.viscademo.BuildConfig

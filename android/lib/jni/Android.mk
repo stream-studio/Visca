@@ -17,6 +17,7 @@ LOCAL_EXPORT_C_INCLUDES := \
   $(LIBUSB_ROOT_ABS)/src
 
 LOCAL_CPP_FEATURES += exceptions
+LOCAL_LDLIBS := -llog -landroid
 
 LOCAL_MODULE := visca
 

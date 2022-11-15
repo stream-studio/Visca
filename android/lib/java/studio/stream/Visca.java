@@ -1,6 +1,6 @@
 package studio.stream;
 
-class Visca{
+public class Visca{
     private long pointer;
     
     private native void nativeInit();
@@ -9,12 +9,14 @@ class Visca{
     private native void nativePresetSet();
     private native void nativePresetCall();
     private native void nativeRelease();
-    
+    private native static void nativeClassInit();
+
     static {
         System.loadLibrary("visca");
+        nativeClassInit();
     }
 
-    Visca(){
+    public Visca(){
         nativeInit();
     }
 
