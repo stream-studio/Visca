@@ -1,0 +1,10 @@
+builddir
+android/obj
+android/libs
+android/.gradle
+android/.idea
+android/build
+android/lib/build
+android/lib/.cxx
+.DS_Store
+.vscode/settings.json
